@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/ramonfosado/brainiac/_apis/build/status/rfosator.brainiac?branchName=master)](https://dev.azure.com/ramonfosado/brainiac/_build/latest?definitionId=1?branchName=master)
